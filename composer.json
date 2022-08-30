@@ -1,0 +1,13 @@
+{
+    "require": {
+        "overtrue/socialite": "^3.1",
+        "msztorc/php-dpd-api": "^2.1",
+        "imper86/php-inpost-api": "^1.1",
+        "gabrielbull/ups-api": "^1.2",
+        "t3ko/dpd-pl-api-php": "^0.4.0",
+        "konekt/pdf-invoice": "^1.7",
+        "dompdf/dompdf": "^1.0",
+        "respect/validation": "^2.2",
+        "gusapi/gusapi": "^5.3"
+    }
+}
